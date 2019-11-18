@@ -1,6 +1,6 @@
 # Python based Web Scrapers
 
-BeautifulSoup based scrapers written in Python.
+BeautifulSoup based web scrapers written in Python.
 These scrapers were used to scrape examination results from the Visvesvaraya Technological University(VTU) [website](http://vtu.ac.in). Script Versions have been made for both CBCS and Non-CBCS category students given that the Result Page URLs are different for either of the categories. The user has to enter a limited set of details to collect the exam results specific to the college department.  
 
 ## Requirements:
@@ -23,7 +23,7 @@ You can pick a script depending on the task and type ```python <script_name>``` 
 ## Impact of this project:
 - This project saved several hours for the faculty at my college in the result aggregation process. Earlier, professors would collect results for each student one at a time and this would take upto 16 hours to collect a single department's results. This project saved more than 40 hours in result aggregation. 
 
-- This project also helped analyze the results to identify at risk/poor performing students and academic help was provided to these students.
+- It also helped analyze the results to identify at risk/poor performing students and academic help was provided to these students.
 
-- This project helped in scraping results for more than 3000 students in less than an hour's time.
+- This project scraped results for more than 3000 students in less than an hour's time.
 
